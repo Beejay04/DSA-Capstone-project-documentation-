@@ -5,5 +5,5 @@ This repository showcase on my capstone project ,which centre on sales performan
 
 ### PROJECT STATUS
 1 . Amazon Product Review Analysis.
-2. Kultra Mega Stores Inventory
+2 .Kultra Mega Stores Inventory
 
