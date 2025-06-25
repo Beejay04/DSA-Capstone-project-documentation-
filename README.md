@@ -20,6 +20,9 @@ Understand customer preferences by product category.
 Calculate potential revenue based on engagement metrics.
 Evaluate pricing trends and product distribution across price bracket
 ## Key Insights from Excel Analysis
+
 Cleaned and structured dataset with calculated fields (e.g., discount %, potential revenue)
+
 Pivot tables and summary metrics
+
 Visualizations showing trends in price, rating, and engagement
