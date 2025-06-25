@@ -4,11 +4,13 @@ This repository showcase on my capstone project ,which centre on sales performan
 
 
 ### PROJECT STATUS
+
 1. Amazon Product Review Analysis.
 
 2. Kultra Mega Stores Inventory
 
 #### PROJECT 1:AMAZON PRODUCT REVIEW ANALYSIS
+
 OBJECTIVES :
 To analyze Amazon product and customer review data to uncover insights that support
 
@@ -20,6 +22,7 @@ Enhanced customer engagement
 
 
 ### Analysis Performed
+
 Identify high-performing products based on ratings and reviews.
 
 Measure discount effectiveness and customer response.
