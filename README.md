@@ -7,3 +7,4 @@ This repository showcase on my capstone project ,which centre on sales performan
 1 . Amazon Product Review Analysis.
 2 .Kultra Mega Stores Inventory
 
+#### PROJECT 1:
