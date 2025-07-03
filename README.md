@@ -42,6 +42,11 @@ Pivot tables and summary metrics
 
 Visualizations showing trends in price, rating, and engagement
 
-## Data visualization 
-![Screenshot (6)](https://github.com/user-attachments/assets/6d0227c9-def5-45db-9aed-8d74543cf692)
+## Tools used 
+_ Ms Excel for Data cleaning 
+- For Data collection
+_ For maniplulation
+
+ preliminary analysis 
+ basic visualizations.
 
