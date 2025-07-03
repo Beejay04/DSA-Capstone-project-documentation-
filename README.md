@@ -1,3 +1,6 @@
+![Screenshot (9)](https://github.com/user-attachments/assets/f94573ec-96f3-48d4-9860-c242f18ae0b6)
+![Screenshot (8)](https://github.com/user-attachments/assets/b9c4c8fe-7075-44fc-85ba-3d9afa7d77db)
+![Screenshot (7)](https://github.com/user-attachments/assets/c33fcd96-2ffe-47c3-b685-5109f9043aaf)
 # DSA-Capstone-project-documentation-
 ## PROJECT OVERVIEW 
 This repository showcase on my capstone project ,which centre on sales performance for a retail store and customer reviews .The project is divided into two sections employing Excel, SQL, and Power BI for thorough data analysis and visualization.
