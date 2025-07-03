@@ -44,7 +44,7 @@ Pivot tables and summary metrics
 Visualizations showing trends in price, rating, and engagement
 
 ## Tools used 
- Ms Excel for Data cleaning [dowmload here} (https.microsoft.com)
+ Ms Excel for Data cleaning
  
 - For Data collection
 
