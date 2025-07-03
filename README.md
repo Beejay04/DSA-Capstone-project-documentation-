@@ -45,9 +45,8 @@ Visualizations showing trends in price, rating, and engagement
 ## Tools used 
  Ms Excel for Data cleaning 
 - For Data collection
-  
-_ For maniplulation
 
- preliminary analysis 
- basic visualizations.
+  -For maniplulation
+
+ preliminary analysis  and basic visualizations.
 
