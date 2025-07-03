@@ -46,7 +46,7 @@ Visualizations showing trends in price, rating, and engagement
  Ms Excel for Data cleaning 
 - For Data collection
 
-  -For maniplulation
+- For maniplulation
 
  preliminary analysis  and basic visualizations.
 
