@@ -43,8 +43,9 @@ Pivot tables and summary metrics
 Visualizations showing trends in price, rating, and engagement
 
 ## Tools used 
-_ Ms Excel for Data cleaning 
+ Ms Excel for Data cleaning 
 - For Data collection
+  
 _ For maniplulation
 
  preliminary analysis 
