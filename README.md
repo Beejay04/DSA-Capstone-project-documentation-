@@ -51,4 +51,5 @@ Visualizations showing trends in price, rating, and engagement
  preliminary analysis  and basic visualizations.
 
 ## Data Visualization
-![download](https://github.com/user-attachments/assets/55a40e6b-bbda-4a58-abe6-3d25400e20a1)
+
+![pivot table 1](https://github.com/user-attachments/assets/db13b47e-7c15-4fd2-be83-d4e5663f59b4)
